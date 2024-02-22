@@ -4,7 +4,7 @@ A simple renamer for PDF Files.
 
 ## Usage
 
-https://github.com/hthcrwzy/py-pdf-renamer/assets/119731650/b45812d8-9bac-4a69-bf93-d17a6ac8f0d8
+https://github.com/hthcrwzy/py-pdf-renamer/assets/119731650/856697f2-0655-4753-8e10-cedac4ad8923
 
 ```console
 $ python3 main.py -h
