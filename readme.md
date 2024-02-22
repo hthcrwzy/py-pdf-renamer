@@ -24,8 +24,8 @@ options:
 
 | dependency     | version    |
 | :------------- | :--------- |
-| `Python`       | `3.11.6`   |
-| `pdfminer.six` | `20221105` |
+| `Python`       | `3.11.7`   |
+| `pdfminer.six` | `20231228` |
 
 👉 For more details, see [requirements.txt](requirements.txt).
 
